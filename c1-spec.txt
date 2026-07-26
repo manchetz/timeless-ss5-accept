@@ -1,0 +1,1 @@
+The submitted primary video master must use H.264 video codec at 1920x1080. English SRT captions are required. The delivery vendor must confirm ingest handoff before package readiness.
