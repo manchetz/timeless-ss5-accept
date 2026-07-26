@@ -1,1 +1,1 @@
-English captions must be supplied as an SRT file for the delivery.
+English captions must be supplied as an SRT or VTT file for the delivery.
